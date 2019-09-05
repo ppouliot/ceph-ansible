@@ -12,3 +12,4 @@ devices:
   - '/dev/sdc'
   - '/dev/sdd'
   - '/dev/sde'
+osd_scenario: collocated
